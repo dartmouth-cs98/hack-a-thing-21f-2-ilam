@@ -16,6 +16,10 @@ TODO: who worked on what part?
 
 TODO: what worked / what didn't work
 
+didn't work:
+https://www.youtube.com/watch?v=wEVjaXK4sYQ
+https://github.com/wcandillon/react-native-gestures-and-animations-workshop
+
 ## Authors
 
 TODO: list of authors
@@ -24,3 +28,4 @@ TODO: list of authors
 
 https://www.youtube.com/watch?v=sfmL6bGbiN8 - Shopping
 https://codewithchris.com/first-swiftui-app-tutorial/#more-234100 - War Card Game
+https://www.youtube.com/watch?v=Pf7g32CwX_s - Maps
