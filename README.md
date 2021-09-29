@@ -22,4 +22,5 @@ TODO: list of authors
 
 ## Acknowledgments
 
-https://www.youtube.com/watch?v=sfmL6bGbiN8
+https://www.youtube.com/watch?v=sfmL6bGbiN8 - Shopping
+https://codewithchris.com/first-swiftui-app-tutorial/#more-234100 - War Card Game
