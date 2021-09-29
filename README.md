@@ -7,7 +7,12 @@
 
 To get started, I built a card game in SwiftUI based on the game of War. In particular, two CPUs are dealt random cards and compete over who has the highest card. In the case of a tie, neither player's scores are incremented. This was my first time with SwiftUI, and while I briefly used Xcode previously, this was the first time I learned about the different features in Xcode, including everything from the inspector area to, my now personal favorite, the code preview (shown below). 
 
-![Xcode](assets/xcode.gif "Xcode")
+Working in Xcode: 
+
+![Xcode](assets/xcode.png "Xcode")
+
+War Card Game project demo:
+
 ![War Card Game](assets/cards.gif "War Card Game")
 
 ### Shopping Cart
@@ -18,9 +23,14 @@ The motivation of this project was to learn Typescript, Material UI, Styled Comp
 
 ### Google Maps
 
-Lastly, I attempted to implement an interactive Google Maps in React that would more specifically show all of the different skateparks in Ottawa, Canada. I rarely work in backend API, and true to my worries, I was not able to see the website run in its entirety due to issues with making a Google Maps Javascript API key. I was, however, able to see a general map of Canada, which was my goal in trying to integrate maps functionality.
+Lastly, I attempted to implement an interactive Google Maps in React that would more specifically show all of the different skateparks in Ottawa, Canada. I rarely work in backend API, and true to my worries, I was not able to see the website run in its entirety due to issues with making a Google Maps Javascript API key. I was, however, able to see a general map of New York (before I was kicked out due to authentication issues), which was my goal in trying to integrate maps functionality.
+
+Setting up Google Maps Javascript API key:
 
 ![API](assets/api.png "API")
+
+Map integration:
+
 ![Map](assets/map.png "Map")
 
 ## Who Did What?
@@ -42,6 +52,9 @@ Irene Lam (irene.x.lam.22@dartmouth.edu)
 ## Acknowledgments
 
 [War Card Game](https://codewithchris.com/first-swiftui-app-tutorial/#more-234100)
+
 [Shopping Cart](https://www.youtube.com/watch?v=sfmL6bGbiN8)
+
 [Google Maps](https://www.youtube.com/watch?v=Pf7g32CwX_s)
+
 [React Native Gestures and Animations](https://www.youtube.com/watch?v=wEVjaXK4sYQ)
